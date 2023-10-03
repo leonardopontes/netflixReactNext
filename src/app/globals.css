@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 1059px) {
+
+  .bg {
+    min-height: 580px;
+  }  
+}
